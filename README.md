@@ -22,8 +22,11 @@
 
 ### What I'm Up To
 🌱 Currently learning and building with **React**, **Next.js**, and **Tailwind CSS**
+
 🔍 Exploring **Machine Learning** using Python (Scikit-learn, Pandas, NumPy)
+
 🔧 Building projects with **Flask**, **Laravel (basic)**, and databases like **MySQL** & **MongoDB**
+
 ✨ Improving my UI/UX skills with Figma & real-world projects
 
 ---
