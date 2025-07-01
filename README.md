@@ -3,7 +3,7 @@
 <div align="center">
 
 ## Heyho👋~ I'm zikra, a student who learns about code><
-####  🌱Aspiring Data Scientist | Front End Developer
+###  🌱Aspiring Data Scientist | Front End Developer
 ![zikra](img/gambar.png)
 
 
