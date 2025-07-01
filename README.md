@@ -10,7 +10,7 @@
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFnZGVnM2h6amw5NGw4d2JoYmZnbHk0ZTV3dWVqc2hzdHFldXIwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/48o6DuNvDewYLWsXyZ/giphy.gif" width="200">
     </td>
     <td style="padding-left: 15px;">
-      CCurrently an undergraduate student with a strong interest in <b> Data Science </b> and <b> Front End Development </b>. I enjoy turning data into smart systems and meaningful interfaces, combining machine learning and search engine development with modern web technologies. Whether it's building predictive models or crafting interactive frontends, I’m always eager to grow through real-world projects and explore both the logic and the look of what I create.
+      Currently an undergraduate student with a strong interest in <b> Data Science </b> and <b> Front End Development </b>. I enjoy turning data into smart systems and meaningful interfaces, combining machine learning and search engine development with modern web technologies. Whether it's building predictive models or crafting interactive frontends, I’m always eager to grow through real-world projects and explore both the logic and the look of what I create.
     </td>
   </tr>
 </table>
@@ -25,7 +25,7 @@
 
 ---
 
-#### Skills:
+### Skills:
 
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -35,7 +35,7 @@
 
 ---
 
-#### Tools
+### Tools
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -44,12 +44,12 @@
 
 ---
 
-#### Connect With Me!
+### Connect With Me!
 ![https://www.linkedin.com/in/azzikraaksan/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/azzikraaks?igsh=MXExczZ2ZzJ0Ymw4Nw%3D%3D&utm_source=qr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![wa.me/6285803919363](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 
 ---
 
-#### GitHub Stats:
+### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=azzikraaksan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=azzikraaksan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azzikraaksan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
