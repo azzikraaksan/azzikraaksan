@@ -15,9 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a student majoring in Information Systems with a strong interest in **Front-End Development** and **Data Science**. I enjoy turning ideas into interactive web interfaces and exploring data to find meaningful insights.
+<table>
+  <tr>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB4eGlmemJxaTcwM285cnVqdjdjdGo3cW81ZmZ0MjJqZ3V2dTJ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OMm2lZaKWAl4na3kAn/giphy.gif" width="500">
+    </td>
+    <td style="padding-left: 15px;">
+      I'm a student majoring in Information Systems with a strong interest in <b>Front-End Development</b> and <b>Data Science</b>. I enjoy turning ideas into interactive web interfaces and exploring data to find meaningful insights.
+    </td>
+  </tr>
+</table>
 
-![halo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB4eGlmemJxaTcwM285cnVqdjdjdGo3cW81ZmZ0MjJqZ3V2dTJ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OMm2lZaKWAl4na3kAn/giphy.gif)
 
 
 ---
