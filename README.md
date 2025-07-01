@@ -1,5 +1,6 @@
 <div align="center">
 
+[![](https://visitcount.itsvg.in/api?id=azzikraaksan&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Heyho👋~ I'm zikra, a student who learns about code><
 ![zikra](img/gambar.png)
 
