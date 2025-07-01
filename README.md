@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFnZGVnM2h6amw5NGw4d2JoYmZnbHk0ZTV3dWVqc2hzdHFldXIwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/48o6DuNvDewYLWsXyZ/giphy.gif" width="200">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFnZGVnM2h6amw5NGw4d2JoYmZnbHk0ZTV3dWVqc2hzdHFldXIwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/48o6DuNvDewYLWsXyZ/giphy.gif" width="150">
     </td>
     <td style="padding-left: 15px;">
       Currently an undergraduate student with a strong interest in <b> Data Science </b> and <b> Front End Development </b>. I enjoy turning data into smart systems and meaningful interfaces, combining machine learning and search engine development with modern web technologies. Whether it's building predictive models or crafting interactive frontends, I’m always eager to grow through real-world projects and explore both the logic and the look of what I create.
@@ -48,7 +48,15 @@
 ---
 
 ### Connect With Me!
-![https://www.linkedin.com/in/azzikraaksan/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/azzikraaks?igsh=MXExczZ2ZzJ0Ymw4Nw%3D%3D&utm_source=qr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![wa.me/6285803919363](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
+<a href="https://www.linkedin.com/in/azzikraaksan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/azzikraaks" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://wa.me/6285803919363" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+</a>
 
 ---
 
