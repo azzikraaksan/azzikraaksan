@@ -6,12 +6,17 @@
 ####  🌱Aspiring Data Scientist | Front End Developer
 ![zikra](img/gambar.png)
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFnZGVnM2h6amw5NGw4d2JoYmZnbHk0ZTV3dWVqc2hzdHFldXIwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/48o6DuNvDewYLWsXyZ/giphy.gif" width="130" style="margin-right: 20px;" />
-  <span>
-    Currently an undergraduate student with a strong interest in <b>Data Science</b> and <b>Front-End Development</b>. I enjoy turning data into smart systems and meaningful interfaces, combining machine learning and search engine development with modern web technologies. Whether it's building predictive models or crafting interactive frontends, I’m always eager to grow through real-world projects and explore both the logic and the look of what I create.
-  </span>
-</div>
+
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFnZGVnM2h6amw5NGw4d2JoYmZnbHk0ZTV3dWVqc2hzdHFldXIwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/48o6DuNvDewYLWsXyZ/giphy.gif" width="150">
+    </td>
+    <td style="padding-left: 15px; border: none;">
+      Currently an undergraduate student with a strong interest in <b>Data Science</b> and <b>Front-End Development</b>. I enjoy turning data into smart systems and meaningful interfaces, combining machine learning and search engine development with modern web technologies. Whether it's building predictive models or crafting interactive frontends, I’m always eager to grow through real-world projects and explore both the logic and the look of what I create.
+    </td>
+  </tr>
+</table>
 
 ---
 
