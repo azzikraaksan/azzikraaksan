@@ -1,7 +1,9 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=azzikraaksan%2Fazzikraaksan&label=Profile%20views&labelColor=%232ccce4&countColor=%23263759)
+
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=azzikraaksan&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Heyho👋~ I'm zikra, a student who learns about code><
+####  🌱Aspiring Data Scientist | Front End Developer
 ![zikra](img/gambar.png)
 
 
