@@ -25,7 +25,7 @@
 
 🔍 Exploring **Machine Learning** using Python (Scikit-learn, Pandas, NumPy)
 
-🔧 Building projects with **Flask**, **Laravel (basic)**, and databases like **MySQL** & **MongoDB**
+🔧 Building projects with **Flask (basic)**, **Laravel (basic)**, and databases like **MySQL** & **MongoDB**
 
 ✨ Improving my UI/UX skills with Figma & real-world projects
 
