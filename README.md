@@ -50,6 +50,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=azzikraaksan)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### Connect With Me!
 <a href="https://www.linkedin.com/in/azzikraaksan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
